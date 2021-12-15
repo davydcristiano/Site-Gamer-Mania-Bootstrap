@@ -2,10 +2,10 @@
 
 Nessa atividade foi re-criado o Website Gamer Mania na versão de Bootstrap, o layout e a codificação do mesmo foi feito por mim. </br> Essa versão é para a atividade da UC9 de codificação Front-End do SENAI!
 
-## OBS: ESTE PROJETO ESTÁ EM PRODUÇÃO!
+## OBS: ESTE PROJETO AINDA ESTÁ EM PRODUÇÃO!
 
 
-<img src="https://user-images.githubusercontent.com/53920878/146274171-9119b121-0c30-4547-a012-6f350e12c3bb.png" width="700px" align="center"></img>
+<img src="https://user-images.githubusercontent.com/53920878/146281883-8d91dbfe-de24-45b3-a29f-1c47bb3fdd94.png" width="700px" align="center"></img>
 
 ## Skills Praticadas
 ✔️ HTML5 </br>
