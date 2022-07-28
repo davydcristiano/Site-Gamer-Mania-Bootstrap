@@ -10,6 +10,11 @@ Essa versão é a atividade final da unidade UC1 de codificação Front-End, Uti
 - Project: `Site Gamer Mania - Projeto Final (SENAI)!`
 - <img src="https://user-images.githubusercontent.com/53920878/181208312-4e142a7a-8a2b-4307-9551-a9a8439c0d89.png" width="80%" align="center"></img>
 
+## Linguagens
+- HTML5
+- CSS3
+- Bootstrap 4.0 - Framework Front-End
+
 ## Directory Hierarchy
 ```
 |—— Assets
@@ -1819,11 +1824,7 @@ Essa versão é a atividade final da unidade UC1 de codificação Front-End, Uti
 |        |—— jquery-3.6.0.min.js
 |—— index.html
 ```
-## Linguagens
-- HTML5
-- CSS3
-- Bootstrap 4.0 - Framework Front-End
-- 
+
 ### HTML Details
 ```
 <!doctype html>
